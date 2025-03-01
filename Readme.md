@@ -45,4 +45,4 @@ I will then review your pull request and merge it, adding your name and GitHub p
 **Attendee List:**
 
 - [Akash Kumar Sah](https://github.com/akashsah2003)
--
+- [Kavya Raj](https://github.com/Ribboncutterpro)
